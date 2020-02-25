@@ -6,11 +6,11 @@ However, in case of miRNA, the reads my be 50 - 150 bp long, and usually contain
 
 miRGrep uses brute force to obtain the raw counts for each mature miRNA.
 
-##Requirements
+## Requirements
 
 > Python 2.6.5 or greater
 
-##Usage
+## Usage
 
 The aligner can be used in a linux environment as follows:
 
@@ -43,7 +43,7 @@ TGAGGTAGTAGTTTGTGCTGTT
 
 Fasta files from miRBase v22 with the base correction ('U' to 'T') for commonly used species will be made available in the repository
 
-##License and Contact
+## License and Contact
 
 If you have questions regarding this code, please contact Shruti Kakan at singhkak@usc.edu
 
